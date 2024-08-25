@@ -1,2 +1,3 @@
 # shivi-demo
-this is my git respository
+This is my Git Respository
+Author Shivi Baliyan
